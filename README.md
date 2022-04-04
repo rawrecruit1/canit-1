@@ -5,11 +5,8 @@
 
 - [ExistoT01](https://github.com/ExistoT01?tab=repositories)
 - .
-<<<<<<< HEAD
-- raw recruit
-=======
 - [rawrecruit1](https://github.com/rawrecruit1?tab=repositories)
->>>>>>> e6b6c92 (第一次提交)
+
 - 魏
 
 
